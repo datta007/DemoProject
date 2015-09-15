@@ -1,0 +1,6 @@
+C:\Users\dattatrayp\Documents\Visual Studio 2012\MyMath\MyMath\bin\Debug\MyMath.exe.config
+C:\Users\dattatrayp\Documents\Visual Studio 2012\MyMath\MyMath\bin\Debug\MyMath.exe
+C:\Users\dattatrayp\Documents\Visual Studio 2012\MyMath\MyMath\bin\Debug\MyMath.pdb
+C:\Users\dattatrayp\Documents\Visual Studio 2012\MyMath\MyMath\obj\Debug\MyMath.exe
+C:\Users\dattatrayp\Documents\Visual Studio 2012\MyMath\MyMath\obj\Debug\MyMath.pdb
+C:\Users\dattatrayp\Documents\Visual Studio 2012\MyMath\MyMath\obj\Debug\MyMath.csprojResolveAssemblyReference.cache
